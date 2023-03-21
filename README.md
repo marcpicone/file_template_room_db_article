@@ -1,0 +1,1 @@
+# file_template_room_db_article
